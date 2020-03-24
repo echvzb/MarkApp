@@ -11,7 +11,6 @@ import {
 } from "@material-ui/core";
 
 export default props => {
-  console.log(props.defaultText);
   return (
     <Container maxWidth="md">
       <Box boxShadow={2} mb="2rem">
