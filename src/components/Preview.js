@@ -9,7 +9,7 @@ import {
   Paper
 } from "@material-ui/core";
 
-import "/src/styles.css";
+import "./styles.css";
 
 export default props => {
   return (
