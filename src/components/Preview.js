@@ -9,8 +9,6 @@ import {
   Paper
 } from "@material-ui/core";
 
-import "/src/styles.css";
-
 export default props => {
   return (
     <Container maxWidth="md">
